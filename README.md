@@ -1,6 +1,7 @@
 # pattherns
-##Alunos
+## Alunos
 João Vitor Girardi, Welson Douglas Oliveira Gomes
+## PATTHERNS
 Desenvolvido exemplo de utilização de métodos pattherns
 Tela inicial com os métodos
 ![Alt text](image.png)
